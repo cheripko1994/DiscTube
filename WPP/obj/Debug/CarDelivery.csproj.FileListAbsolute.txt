@@ -1,0 +1,160 @@
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Antlr3.Runtime.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\EntityFramework.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\EntityFramework.SqlServer.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.AspNet.Identity.Core.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Security.Cookies.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Security.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Security.Facebook.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Security.Google.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Security.OAuth.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Security.Twitter.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Web.Infrastructure.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Newtonsoft.Json.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\NLog.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Owin.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\PagedList.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\PagedList.Mvc.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\RestSharp.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\System.Web.Helpers.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\System.Web.Mvc.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\System.Web.Optimization.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\System.Web.Razor.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\System.Web.WebPages.Deployment.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\System.Web.WebPages.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\System.Web.WebPages.Razor.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\WebGrease.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\NLog.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\PagedList.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\PagedList.Mvc.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\RestSharp.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\System.Web.Helpers.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\System.Web.Mvc.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\System.Web.Optimization.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\System.Web.Razor.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\System.Web.WebPages.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\System.Web.WebPages.Deployment.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\System.Web.WebPages.Razor.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Newtonsoft.Json.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\EntityFramework.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\EntityFramework.SqlServer.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.AspNet.Identity.Core.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Security.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Security.Facebook.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Security.Cookies.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Security.OAuth.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Security.Google.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Security.Twitter.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.csprojResolveAssemblyReference.cache
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.first.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.currentv1.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.second.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.vCurrent.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.v70.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.current.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.current1.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.currentv19.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.currentv89.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.updatedentity.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.data.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.currentv88.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.car.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.car1.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.car2.resources
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.csproj.GenerateResource.Cache
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\CarDelivery.dll.config
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\CarDelivery.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\bin\CarDelivery.pdb
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.dll
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.pdb
+D:\work\OpenOrderFramework\OpenOrderFramework\obj\Debug\CarDelivery.Migrations.PowToDec.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\CarDelivery.dll.config
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\CarDelivery.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\CarDelivery.pdb
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Antlr3.Runtime.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\EntityFramework.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\EntityFramework.SqlServer.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.AspNet.Identity.Core.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Security.Cookies.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Security.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Security.Facebook.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Security.Google.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Security.OAuth.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Security.Twitter.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Web.Infrastructure.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Newtonsoft.Json.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\NLog.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Owin.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\PagedList.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\PagedList.Mvc.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\RestSharp.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\System.Web.Helpers.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\System.Web.Mvc.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\System.Web.Optimization.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\System.Web.Razor.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\System.Web.WebPages.Deployment.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\System.Web.WebPages.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\System.Web.WebPages.Razor.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\WebGrease.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\NLog.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\PagedList.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\PagedList.Mvc.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\RestSharp.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\System.Web.Helpers.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\System.Web.Mvc.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\System.Web.Optimization.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\System.Web.Razor.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\System.Web.WebPages.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\System.Web.WebPages.Deployment.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\System.Web.WebPages.Razor.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Newtonsoft.Json.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\EntityFramework.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\EntityFramework.SqlServer.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.AspNet.Identity.Core.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Security.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Security.Facebook.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Security.Cookies.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Security.OAuth.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Security.Google.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Security.Twitter.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.csprojResolveAssemblyReference.cache
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.first.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.currentv1.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.second.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.vCurrent.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.v70.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.current.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.current1.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.currentv19.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.currentv89.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.updatedentity.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.data.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.currentv88.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.car.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.car1.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.car2.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.PowToDec.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.csproj.GenerateResource.Cache
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.dll
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.pdb
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.status.resources
+D:\work\3 курс\Web\CarDelivery\CarDelivery\obj\Debug\CarDelivery.Migrations.discount.resources

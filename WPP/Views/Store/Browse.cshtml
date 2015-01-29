@@ -1,0 +1,21 @@
+﻿@model WPP.Models.Catagorie
+
+@{
+    ViewBag.Title = "Browse Items";
+}
+
+<div class="genre">
+    <h3><em>@Model.Name</em> Items</h3>
+
+    <ul id="item-list">
+        @foreach (var item in Model.Items)
+        {
+            <li>
+                <a href="@Url.Action("Details", new { id = item.ID })">
+                    <span>@item.Name</span>
+                </a>
+            </li>
+        }
+    </ul>
+</div>
+

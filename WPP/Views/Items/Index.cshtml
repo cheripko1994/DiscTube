@@ -1,0 +1,132 @@
+﻿@model PagedList.IPagedList<WPP.Models.Item>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Каталог";
+}
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        // Document.ready -> link up remove event handler
+        $(".AddLink").click(function () {
+            // Get the id from the link
+            var recordToAdd = $(this).attr("data-id");
+            if (recordToAdd != '') {
+                // Perform the ajax post
+                $.post("/ShoppingCart/AddToCart", { "id": recordToAdd },
+                    function (data) {
+                        $('#cart-status').text(data.CartCount);
+                    });
+            }
+        });
+    });
+</script>
+
+<!-- Button trigger modal -->
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+
+    <div aria-hidden="true" class="alert alert-dismissable alert-success">
+        <button type="button" class="close" data-dismiss="alert">×</button>
+        <strong>Товар был добавлен в корзину.</strong> Что бы произвести покупку сейчас, просто <a href="#" class="alert-link">нажмите здесь</a>.
+    </div>
+
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title">Оформление покупки</h4>
+            </div>
+            <div class="modal-body">
+                <p>Хотите оформить покупку или продолжить?</p>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default"  data-dismiss="modal">Продолжить</button>
+                <button type="submit" class="btn btn-primary" onclick="location.href='@Url.Action("Index", "ShoppingCart")'">Оформить покупку</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<h2>Каталог</h2>
+@if (Request.IsAuthenticated && User.IsInRole("Admin"))
+{
+    <p>
+        @Html.ActionLink("Создать новый", "Create", null, htmlAttributes: new { @type = "button", @class = "btn btn-info item-btn" })
+    </p>
+}
+<div class="bs-docs-section">
+            @using (Html.BeginForm("Index", "Items", FormMethod.Get))
+            {
+                
+                <div class="form-group">
+                    <div class="input-group">
+                        @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+                        <span class="input-group-btn" style="width: 100%;">
+                            <input type="submit" class="btn btn-info btn-sm" value="Искать" />
+                        </span>
+                    </div>
+                </div>
+            }
+</div>
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("Категория", "Index", new { sortOrder = ViewBag.CategoryParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("Название", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("Цена", "Index", new { sortOrder = ViewBag.PriceSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            Описание
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Catagorie.Name)
+            </td>
+            <td>
+                @Html.ActionLink(item.Name, "Details", new { id = item.ID })
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Info)
+            </td>
+            <td>
+                <a href="#" class="AddLink btn btn-info item-btn"
+                   data-id="@item.ID" data-toggle="modal" data-target="#myModal" type="button">
+                    В корзину
+                </a>
+              
+                @Html.ActionLink("Детали", "Details", new { id = item.ID }, htmlAttributes: new { @type = "button", @class = "btn btn-info item-btn" })
+                @if (Request.IsAuthenticated && User.IsInRole("Admin"))
+                {
+                    @Html.ActionLink("Редактировать", "Edit", new { id = item.ID }, htmlAttributes: new {@type = "button", @class="btn btn-info item-btn" })
+                    @Html.ActionLink("Удалить", "Delete", new { id = item.ID }, htmlAttributes: new { @type = "button", @class = "btn btn-info item-btn" })
+                }
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+Страница @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) из @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

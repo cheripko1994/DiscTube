@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Скидка";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int d = ViewBag.Discount;
+}
+
+
+
+@using (Html.BeginForm("ChangeDiscount", "Orders", new { id = ViewBag.id }))
+{
+    <div class="form-horizontal">
+        <h4 style="margin-top: 25px">Изменить скидку (текущая - @ViewBag.Discount%)</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <div class="col-md-2 control-label">
+                Скидка(%):
+            </div>
+            <div class="col-md-10">
+                @Html.TextBox("discount", d, new { type = "number", min = "0", max = "10", @class = ".discount" })
+                @Html.ValidationMessage("Order.Discount", "", new { @class = "text-danger"})
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Сохранить" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
+

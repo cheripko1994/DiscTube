@@ -1,0 +1,320 @@
+D:\work\3 курс\Web\TabletShop\TabletShop\obj\Debug\TabletShop.csprojResolveAssemblyReference.cache
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Antlr3.Runtime.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\EntityFramework.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\EntityFramework.SqlServer.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Security.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Google.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Web.Infrastructure.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Newtonsoft.Json.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\NLog.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Owin.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\PagedList.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\PagedList.Mvc.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\RestSharp.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\System.Web.Helpers.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\System.Web.Mvc.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\System.Web.Optimization.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\System.Web.Razor.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\System.Web.WebPages.Deployment.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\System.Web.WebPages.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\System.Web.WebPages.Razor.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\WebGrease.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\NLog.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\PagedList.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\PagedList.Mvc.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\RestSharp.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\System.Web.Helpers.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\System.Web.Mvc.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\System.Web.Optimization.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\System.Web.Razor.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\System.Web.WebPages.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\System.Web.WebPages.Deployment.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\System.Web.WebPages.Razor.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Newtonsoft.Json.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\EntityFramework.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\EntityFramework.SqlServer.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Security.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Google.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\work\3 курс\Web\TabletShop\TabletShop\obj\Debug\CarDelivery.Migrations.Tablet.resources
+D:\work\3 курс\Web\TabletShop\TabletShop\obj\Debug\TabletShop.csproj.GenerateResource.Cache
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\TabletShop.dll.config
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\TabletShop.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\bin\TabletShop.pdb
+D:\work\3 курс\Web\TabletShop\TabletShop\obj\Debug\TabletShop.dll
+D:\work\3 курс\Web\TabletShop\TabletShop\obj\Debug\TabletShop.pdb
+G:\веб\TabletShop\TabletShop\bin\TabletShop.dll.config
+G:\веб\TabletShop\TabletShop\bin\TabletShop.dll
+G:\веб\TabletShop\TabletShop\bin\TabletShop.pdb
+G:\веб\TabletShop\TabletShop\bin\Antlr3.Runtime.dll
+G:\веб\TabletShop\TabletShop\bin\EntityFramework.dll
+G:\веб\TabletShop\TabletShop\bin\EntityFramework.SqlServer.dll
+G:\веб\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Core.dll
+G:\веб\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\веб\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.dll
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Cookies.dll
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.dll
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Facebook.dll
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Google.dll
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.OAuth.dll
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Twitter.dll
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Web.Infrastructure.dll
+G:\веб\TabletShop\TabletShop\bin\Newtonsoft.Json.dll
+G:\веб\TabletShop\TabletShop\bin\NLog.dll
+G:\веб\TabletShop\TabletShop\bin\Owin.dll
+G:\веб\TabletShop\TabletShop\bin\PagedList.dll
+G:\веб\TabletShop\TabletShop\bin\PagedList.Mvc.dll
+G:\веб\TabletShop\TabletShop\bin\RestSharp.dll
+G:\веб\TabletShop\TabletShop\bin\System.Web.Helpers.dll
+G:\веб\TabletShop\TabletShop\bin\System.Web.Mvc.dll
+G:\веб\TabletShop\TabletShop\bin\System.Web.Optimization.dll
+G:\веб\TabletShop\TabletShop\bin\System.Web.Razor.dll
+G:\веб\TabletShop\TabletShop\bin\System.Web.WebPages.Deployment.dll
+G:\веб\TabletShop\TabletShop\bin\System.Web.WebPages.dll
+G:\веб\TabletShop\TabletShop\bin\System.Web.WebPages.Razor.dll
+G:\веб\TabletShop\TabletShop\bin\WebGrease.dll
+G:\веб\TabletShop\TabletShop\bin\NLog.xml
+G:\веб\TabletShop\TabletShop\bin\PagedList.xml
+G:\веб\TabletShop\TabletShop\bin\PagedList.Mvc.xml
+G:\веб\TabletShop\TabletShop\bin\RestSharp.xml
+G:\веб\TabletShop\TabletShop\bin\System.Web.Helpers.xml
+G:\веб\TabletShop\TabletShop\bin\System.Web.Mvc.xml
+G:\веб\TabletShop\TabletShop\bin\System.Web.Optimization.xml
+G:\веб\TabletShop\TabletShop\bin\System.Web.Razor.xml
+G:\веб\TabletShop\TabletShop\bin\System.Web.WebPages.xml
+G:\веб\TabletShop\TabletShop\bin\System.Web.WebPages.Deployment.xml
+G:\веб\TabletShop\TabletShop\bin\System.Web.WebPages.Razor.xml
+G:\веб\TabletShop\TabletShop\bin\Newtonsoft.Json.xml
+G:\веб\TabletShop\TabletShop\bin\EntityFramework.xml
+G:\веб\TabletShop\TabletShop\bin\EntityFramework.SqlServer.xml
+G:\веб\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Core.xml
+G:\веб\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\веб\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.xml
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.xml
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Facebook.xml
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Cookies.xml
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.OAuth.xml
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Google.xml
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Twitter.xml
+G:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\веб\TabletShop\TabletShop\obj\Debug\TabletShop.csprojResolveAssemblyReference.cache
+G:\веб\TabletShop\TabletShop\obj\Debug\CarDelivery.Migrations.Tablet.resources
+G:\веб\TabletShop\TabletShop\obj\Debug\TabletShop.csproj.GenerateResource.Cache
+G:\веб\TabletShop\TabletShop\obj\Debug\TabletShop.dll
+G:\веб\TabletShop\TabletShop\obj\Debug\TabletShop.pdb
+H:\веб\TabletShop\TabletShop\bin\TabletShop.dll.config
+H:\веб\TabletShop\TabletShop\bin\TabletShop.dll
+H:\веб\TabletShop\TabletShop\bin\TabletShop.pdb
+H:\веб\TabletShop\TabletShop\bin\Antlr3.Runtime.dll
+H:\веб\TabletShop\TabletShop\bin\EntityFramework.dll
+H:\веб\TabletShop\TabletShop\bin\EntityFramework.SqlServer.dll
+H:\веб\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Core.dll
+H:\веб\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\веб\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.dll
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Cookies.dll
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.dll
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Facebook.dll
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Google.dll
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.OAuth.dll
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Twitter.dll
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Web.Infrastructure.dll
+H:\веб\TabletShop\TabletShop\bin\Newtonsoft.Json.dll
+H:\веб\TabletShop\TabletShop\bin\NLog.dll
+H:\веб\TabletShop\TabletShop\bin\Owin.dll
+H:\веб\TabletShop\TabletShop\bin\PagedList.dll
+H:\веб\TabletShop\TabletShop\bin\PagedList.Mvc.dll
+H:\веб\TabletShop\TabletShop\bin\RestSharp.dll
+H:\веб\TabletShop\TabletShop\bin\System.Web.Helpers.dll
+H:\веб\TabletShop\TabletShop\bin\System.Web.Mvc.dll
+H:\веб\TabletShop\TabletShop\bin\System.Web.Optimization.dll
+H:\веб\TabletShop\TabletShop\bin\System.Web.Razor.dll
+H:\веб\TabletShop\TabletShop\bin\System.Web.WebPages.Deployment.dll
+H:\веб\TabletShop\TabletShop\bin\System.Web.WebPages.dll
+H:\веб\TabletShop\TabletShop\bin\System.Web.WebPages.Razor.dll
+H:\веб\TabletShop\TabletShop\bin\WebGrease.dll
+H:\веб\TabletShop\TabletShop\bin\NLog.xml
+H:\веб\TabletShop\TabletShop\bin\PagedList.xml
+H:\веб\TabletShop\TabletShop\bin\PagedList.Mvc.xml
+H:\веб\TabletShop\TabletShop\bin\RestSharp.xml
+H:\веб\TabletShop\TabletShop\bin\System.Web.Helpers.xml
+H:\веб\TabletShop\TabletShop\bin\System.Web.Mvc.xml
+H:\веб\TabletShop\TabletShop\bin\System.Web.Optimization.xml
+H:\веб\TabletShop\TabletShop\bin\System.Web.Razor.xml
+H:\веб\TabletShop\TabletShop\bin\System.Web.WebPages.xml
+H:\веб\TabletShop\TabletShop\bin\System.Web.WebPages.Deployment.xml
+H:\веб\TabletShop\TabletShop\bin\System.Web.WebPages.Razor.xml
+H:\веб\TabletShop\TabletShop\bin\Newtonsoft.Json.xml
+H:\веб\TabletShop\TabletShop\bin\EntityFramework.xml
+H:\веб\TabletShop\TabletShop\bin\EntityFramework.SqlServer.xml
+H:\веб\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Core.xml
+H:\веб\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\веб\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.xml
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.xml
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Facebook.xml
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Cookies.xml
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.OAuth.xml
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Google.xml
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Twitter.xml
+H:\веб\TabletShop\TabletShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\веб\TabletShop\TabletShop\obj\Debug\TabletShop.csprojResolveAssemblyReference.cache
+H:\веб\TabletShop\TabletShop\obj\Debug\CarDelivery.Migrations.Tablet.resources
+H:\веб\TabletShop\TabletShop\obj\Debug\TabletShop.csproj.GenerateResource.Cache
+H:\веб\TabletShop\TabletShop\obj\Debug\TabletShop.dll
+H:\веб\TabletShop\TabletShop\obj\Debug\TabletShop.pdb
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\TabletShop.dll.config
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\TabletShop.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\TabletShop.pdb
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Antlr3.Runtime.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\EntityFramework.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\EntityFramework.SqlServer.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Security.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Google.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Web.Infrastructure.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Newtonsoft.Json.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\NLog.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Owin.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\PagedList.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\PagedList.Mvc.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\RestSharp.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\System.Web.Helpers.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\System.Web.Mvc.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\System.Web.Optimization.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\System.Web.Razor.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\System.Web.WebPages.Deployment.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\System.Web.WebPages.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\System.Web.WebPages.Razor.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\WebGrease.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\NLog.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\PagedList.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\PagedList.Mvc.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\RestSharp.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\System.Web.Helpers.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\System.Web.Mvc.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\System.Web.Optimization.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\System.Web.Razor.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\System.Web.WebPages.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\System.Web.WebPages.Deployment.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\System.Web.WebPages.Razor.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Newtonsoft.Json.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\EntityFramework.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\EntityFramework.SqlServer.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Security.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Google.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\obj\Debug\TabletShop.csprojResolveAssemblyReference.cache
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\obj\Debug\CarDelivery.Migrations.Tablet.resources
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\obj\Debug\TabletShop.csproj.GenerateResource.Cache
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\obj\Debug\TabletShop.dll
+D:\TJ\Documents\STUDY\WEB\KR\TabletShop\TabletShop\obj\Debug\TabletShop.pdb
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\WPP.dll.config
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\WPP.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\WPP.pdb
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Antlr3.Runtime.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\EntityFramework.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\EntityFramework.SqlServer.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Security.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Security.Google.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Web.Infrastructure.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Newtonsoft.Json.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\NLog.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Owin.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\PagedList.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\PagedList.Mvc.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\RestSharp.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\System.Web.Helpers.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\System.Web.Mvc.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\System.Web.Optimization.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\System.Web.Razor.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\System.Web.WebPages.Deployment.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\System.Web.WebPages.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\System.Web.WebPages.Razor.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\WebGrease.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\NLog.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\PagedList.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\PagedList.Mvc.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\RestSharp.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\System.Web.Helpers.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\System.Web.Mvc.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\System.Web.Optimization.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\System.Web.Razor.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\System.Web.WebPages.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\System.Web.WebPages.Deployment.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\System.Web.WebPages.Razor.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Newtonsoft.Json.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\EntityFramework.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\EntityFramework.SqlServer.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Security.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Security.Google.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\obj\Debug\WPP.csprojResolveAssemblyReference.cache
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\obj\Debug\CarDelivery.Migrations.Tablet.resources
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\obj\Debug\WPP.csproj.GenerateResource.Cache
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\obj\Debug\WPP.dll
+D:\TJ\Documents\STUDY\WEB\KR\WPP\WPP\obj\Debug\WPP.pdb

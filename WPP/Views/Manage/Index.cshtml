@@ -1,0 +1,32 @@
+@model WPP.Models.IndexViewModel
+@{
+    ViewBag.Title = "Управление аккаунтом";
+}
+
+<h2>@ViewBag.Title.</h2>
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div class="row">
+    <div class="col-md-8">
+        <p>
+            @if (Model.HasPassword) {
+                @Html.ActionLink("Изменить пароль", "ChangePassword")
+            }
+            else {
+                @Html.ActionLink("Создать пароль", "SetPassword")
+            }
+        </p>
+        <p>
+            Телефонный номер: @(Model.PhoneNumber ?? "Нету") [
+            @if (Model.PhoneNumber != null) {
+                @Html.ActionLink("Изменить", "AddPhoneNumber")
+                @: &nbsp;|&nbsp;
+                @Html.ActionLink("Удалить", "RemovePhoneNumber")
+            }
+            else {
+                @Html.ActionLink("Добавить", "AddPhoneNumber")
+            }
+            ]
+        </p>
+
+    </div>
+</div>
