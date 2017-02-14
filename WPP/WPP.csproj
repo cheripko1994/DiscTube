@@ -245,7 +245,7 @@
     <Content Include="fonts\fontawesome-webfont.woff" />
     <Content Include="fonts\fontawesome-webfont.woff2" />
     <Content Include="fonts\FontAwesome.otf" />
-    <Content Include="ClassDiagram1.cd" />
+    <Content Include="ClassDiagram.cd" />
     <None Include="Properties\PublishProfiles\orderframework.pubxml" />
     <Content Include="Scripts\card.js" />
     <None Include="Scripts\jquery-2.1.1.intellisense.js" />
